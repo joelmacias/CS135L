@@ -57,17 +57,14 @@ return 0;
 
 int main() {
 
-cout<<"Spanish: "; 
+std::cout<<"Spanish: ";
 std::cout<<"Hola Mundo"<<std::endl; 
 
 cout<<"English: ";
 cout<<"Hello World"<<endl;
 
 cout<<"Dutch: ";
-cout<<"Hallo Wereld\n"; 
-
-cout<<"German: ";
-cout<<"Hallo Welt"<<endl;  
+cout<<"Hallo Wereld\nGerman: Hallo Welt"<<endl;
 
 return 0;
 
