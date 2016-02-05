@@ -60,12 +60,14 @@ int main() {
 std::cout<<"Spanish: ";
 std::cout<<"Hola Mundo"<<std::endl; 
 
+    
 cout<<"English: ";
 cout<<"Hello World"<<endl;
 
 cout<<"Dutch: ";
-cout<<"Hallo Wereld\nGerman: Hallo Welt"<<endl;
+cout<<"Hallo Wereld"<<endl;
+cout<<"German: Hallo Welt"<<endl;
 
 return 0;
-
+    
 } 
