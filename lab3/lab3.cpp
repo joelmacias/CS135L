@@ -44,7 +44,7 @@ int main(){
 	cout<<"(double)(a/b) => "<<answer<<endl;
 
 	answer = (double)(a)/b; 			// C style casting 
-	cout<<"(double)(a)/b: => "<<answer<<endl;
+	cout<<"(double)(a)/b => "<<answer<<endl;
 
  
 
