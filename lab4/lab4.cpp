@@ -28,7 +28,39 @@ Interactive Input: cin
 using namespace std;
 
 int main(){
+    
+    
+    
+    // single data input
+    cout << "Enter an integer" << endl;
+    int userInput;
+    cin >> userInput;
+    cout << "userInput: " << userInput << endl;
+    
+    
+    // mulitple data input
+    cout<<"Enter three numbers seperated by a space.\nFirst two numbers must be of type int, and the last a floating point number: " << endl;
+    int a, b;
+    double c;
+    cin >> a >> b >> c;
+    
+    cout << "a: " << a << "\nb: " << b <<  "\nc: " << c <<  endl;
+    
+    
+    // cin will ignore any spaces or linefeeds
+    cout << "What if the user types spaces before their data?" << endl;
+    int d;
+    cin >> d;
+    cout << "d: " << d << endl;
+    
+    // we can store an int into a double or float  with no issue
+    cout << "Enter an int, we will store it into a double: " << endl;
+    double  f;
+    cin >> f;
+    cout << "f: " << f << endl;
+    
 
+/*
     
 
 // prompt user for input
@@ -38,7 +70,7 @@ cout << "Please enter Jake Gyllenhaal's max morning height as a floating point n
 double x;
     
 // wait for input
-cin >> x; 
+cin >> x;
 cout << "Jake Gyllenhall's MMH is: " << x <<endl;
     
     
@@ -54,7 +86,7 @@ cout << "Jake Gyllenhall's MMH is: " << x <<endl;
 cout << "\nUsing a strange alphabetic scale, where 'a' denotes an inferior aptitude towards crafting\ndank memes, and 'z' denotes a superior aptitude, rate Jake Gyllenhaal's dank meme crafting: " << endl;
 int z; 
 cin >> z;
-cout << "z: " << z << endl; 
+cout << "Dank meme crafting rating: " << z << endl;
 
 // the cin that follows will be skipped because of the input failure from the previous cin read 
 cout << "\nPlease enter your favorite Jake Gyllenhaal tweet:  " << endl;
@@ -104,8 +136,8 @@ Links to libraries that might be useful for CS135L:
  
 */
 
+/*
     
-    /*
     // some function only accept specific data types.
     cout << "Enter a single character, and i'll show you its decimal value in ASCII: " <<endl;
     
@@ -114,10 +146,10 @@ Links to libraries that might be useful for CS135L:
     // the function atoi doesnt accept chars, so this will cause an error when we compile
     int converted  = atoi(ascciiUserInput);
     cout << converted << endl;
-    */
+  */
+    
     
     /*
-    
     cout << "\nEnter your first initial: " << endl;
     // will only read one character from input...but the other characters that
     // the user entered will automatically be read into the next read statement.
@@ -152,10 +184,10 @@ Links to libraries that might be useful for CS135L:
 
     cout << "\n-After swap function-" << endl;
     cout << "q == " << q << "\nw == " << w << endl;
+*/
+    
 
-     */
-
-}
+ }
 
  
 

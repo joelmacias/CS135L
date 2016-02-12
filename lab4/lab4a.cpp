@@ -9,7 +9,8 @@ int main(){
 double three = 3.0; 
 
 // calculate square root of 3
-int sqrtThree = sqrt(three); 
+int sqrtThree = sqrt(three);
+  
 
 double denominator = 4.0; 
 

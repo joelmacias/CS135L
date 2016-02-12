@@ -21,7 +21,13 @@ Extremely Basic Debugging
 6 - Check data stored in local variables 
 	info locals 
 
-7 - Exit debugger
+7 - Terminate program running in debugger 
+	kill 
+
+8 - List of breakpoints  
+	info breakpoints 
+
+8 - Exit debugger
 	quit
 
 
