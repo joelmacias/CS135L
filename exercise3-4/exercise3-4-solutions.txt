@@ -1,3 +1,17 @@
+Exercise 3 solutions 
+
+Student Name  LecSec#10__  LabSec#10__  Exercise #3
+Pay rate: $15
+Estimated hours worked: 400
+Gross earnings: $6000
+Taxes: $600
+Amount for clothes: $432
+Amount for school supplies: $810
+Amount saved: $1247.4
+Amount left to spend: $2910.6
+
+
+
 Exercise 4 solutions
 
 Exercise 4 is worth 20 points. 
