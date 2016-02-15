@@ -1,5 +1,8 @@
 Exercise 4 solutions
 
+Exercise 4 is worth 20 points. 
+Each questions is 2 points.
+
 Notes* 
 
 * Dividing two integers will result in the truncation of the fractional portion 
