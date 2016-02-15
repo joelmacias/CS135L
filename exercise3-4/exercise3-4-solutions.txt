@@ -1,5 +1,7 @@
 Exercise 3 solutions 
 
+Your program output should look similar to this, the names of the labels may have been different, but they all needed to be there. 
+
 Student Name  LecSec#10__  LabSec#10__  Exercise #3
 Pay rate: $15
 Estimated hours worked: 400
