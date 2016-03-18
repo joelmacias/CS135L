@@ -1,0 +1,23 @@
+C = control
+M = esc or alt key
+
+Highlighting text: C-space 
+Copying highlighted text: M-w
+Pasting copied text: C-y
+Cutting highlighted text: C- w
+
+
+Turning on line numbers: M-x linum-mode 
+
+undo: C-x u
+
+syntax highlighting 
+M-x c-mode
+M-x cpp-mode
+
+
+Exit command mode: C-g
+
+Goto line: M-g g
+
+Erase until end of line: C-k
